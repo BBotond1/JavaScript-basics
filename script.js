@@ -1,15 +1,15 @@
 function returnZero() {
-	
+    return 0;
 }
 
 
 function returnYourName() {
-	
+	return ("Botond");
 }
 
 
 function returnTrue() {
-	
+	return true;
 }
 
 
